@@ -59,7 +59,7 @@ _This example firebase app uses the [Gatsby Starter Emma by LekoArts](https://gi
 
 
 
-
+https://stackoverflow.com/questions/42591099/how-do-i-remove-a-hosted-site-from-firebase
 
 
 
